@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Nipuna
 
-<!-- ![counter](https://github.com/NipunaMadhushan.m.pipedream.net) -->
+![counter](https://enen8vk2umqaf8h.m.pipedream.net)
 
 <!--
 **NipunaMadhushan/NipunaMadhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
