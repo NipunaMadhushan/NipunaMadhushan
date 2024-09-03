@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NipunaMadhushan"/></a> </p>
 
-- 🔭 I’m currently working on [Ballerina](https://ballerina.io/) tooling & CI/CD
+- 🔭 I’m currently working on [Ballerina](https://ballerina.io/) observability (metrics, tracing & logs) & CI/CD
 - 🌱 I’m currently learning machine vision and its applications to VR/AR.
 
 <h3 align="left">Languages and Tools:</h3>
